@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /Experience/
-title: permalink: /Experience/
+title: Experience
 nav: true
 nav_order: 4
 cv_pdf: haoming_cv.pdf
