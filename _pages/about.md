@@ -1,26 +1,32 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://ece.duke.edu/'>Duke University, Electrical Engineering</a>. 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: hm.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Wilkinson 421</p>
+    <p>Duke University</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I am Haoming Yang. A PhD Student at Duke ECE Department advised by Professor [Vahid Tarokh](https://en.wikipedia.org/wiki/Vahid_Tarokh). I joined Duke ECE in Jan 2023. There are two sides about my research:
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+* Application of Stochastic Differential Equation in Machine Learning: 
+  * **Mckean Vlasov** Stochastic Differential Equations and Interacting Particle system
+  * Application of **Brownian Bridges**
+* Application of Machine Learning in Biology: 
+  * **Semi-interpretable** Machine Learning algorithm to model spiking interaction
+  * Cross-Subject **Transfer Learning** application in Moth motor program. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Prior to joining Duke ECE as a PhD student, I was a master student at Duke Statistical Science. I had the honor to work with Professor [David Dunson](https://scholar.google.co.uk/citations?view_op=list_works&hl=en&hl=en&user=KwEOawwAAAAJ&pagesize=80&sortby=pubdate) on modeling Brain Connectome. 
+
+I graduated from University of Illinois at Urbana Champaign (High Honor) with Bachelor Degrees in Physics and Statistis.
