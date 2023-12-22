@@ -4,7 +4,7 @@ permalink: /Teaching/
 title: Teaching
 description: 
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
 I have TAed the following classes:

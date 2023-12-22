@@ -4,7 +4,7 @@ permalink: /GitHub/
 title: GitHub
 description: My github Repository (under construction)
 nav: true
-nav_order: 3
+nav_order: 5
 ---
 
 ## GitHub users
