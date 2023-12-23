@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://ece.duke.edu/'>Duke University, Electrical Engineering</a>. 
+subtitle: <a href='https://ece.duke.edu/'>Duke University, Electrical and Computer Engineering</a>. 
 
 profile:
   align: right
