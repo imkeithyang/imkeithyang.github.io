@@ -23,7 +23,7 @@ There are two sides about my research:
 * Application of stochastic differential equation in Machine Learning: 
   * **Mckean Vlasov** Stochastic Differential Equations and Interacting Particle System
   * Application of **Brownian Bridges**
-* [Application of Machine Learning in Biology](https://sites.gatech.edu/flap-muri/): 
+* [Application of Machine Learning in Neuroscience](https://sites.gatech.edu/flap-muri/): 
   * **Semi-interpretable** machine learning algorithm to model neuron spike timing and interaction
   * Cross-Subject **Transfer Learning** application in Moth motor program. 
 
