@@ -3,7 +3,7 @@ layout: page
 permalink: /GitHub/
 title: GitHub
 description: My github Repository (under construction)
-nav: false
+nav: False
 nav_order: 5
 ---
 
