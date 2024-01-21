@@ -23,8 +23,9 @@ There are two sides about my research:
 * Application of stochastic differential equation in Machine Learning: 
   * **Mckean Vlasov** Stochastic Differential Equations and Interacting Particle System
   * Application of **Brownian Bridges**
-* [Application of Machine Learning in Neuroscience](https://sites.gatech.edu/flap-muri/): 
+* [Application of Machine Learning in Neuroscience and Biiology](https://sites.gatech.edu/flap-muri/): 
   * **Semi-interpretable** machine learning algorithm to model neuron spike timing and interaction
+  * Analyzing **Agile Flight Dynamics** of insects. 
   * Cross-Subject **Transfer Learning** application in Moth motor program. 
 
 Prior to joining Duke ECE as a PhD student, I was a master student at Duke Statistical Science. I had the honor to work with Professor [David Dunson](https://scholar.google.co.uk/citations?view_op=list_works&hl=en&hl=en&user=KwEOawwAAAAJ&pagesize=80&sortby=pubdate) on modeling Brain Connectome. 
