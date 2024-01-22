@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper on semi-parametric modeling of Mckean-Vlasov SDE is accepted for Oral presentation in AISTATS 2024
+My paper on semi-parametric modeling of Mckean-Vlasov SDE is accepted for oral presentation in AISTATS 2024
