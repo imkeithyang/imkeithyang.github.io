@@ -30,4 +30,4 @@ There are two sides about my research:
 
 Prior to joining Duke ECE as a PhD student, I was a master student at Duke Statistical Science. I had the honor to work with Professor [David Dunson](https://scholar.google.co.uk/citations?view_op=list_works&hl=en&hl=en&user=KwEOawwAAAAJ&pagesize=80&sortby=pubdate) on modeling Brain Connectome. 
 
-I graduated from University of Illinois at Urbana Champaign (Highest Honor) with dual Bachelor Degrees in Physics and Statistis.
+I graduated from University of Illinois at Urbana Champaign (Highest Honor) with dual Bachelor Degrees in Physics and Statistics.
