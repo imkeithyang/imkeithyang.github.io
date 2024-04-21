@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I am Haoming Yang, a PhD Student at Duke ECE Department advised by Professor [Vahid Tarokh](https://en.wikipedia.org/wiki/Vahid_Tarokh). I joined Duke ECE in Jan 2023. 
+Hi, I am Haoming Yang, a PhD Student at Duke ECE Department advised by Professor [Vahid Tarokh](https://ece.duke.edu/faculty/vahid-tarokh). I joined Duke ECE in Jan 2023. 
 
 There are two sides about my research:
 * Application of stochastic differential equation in Machine Learning: 
