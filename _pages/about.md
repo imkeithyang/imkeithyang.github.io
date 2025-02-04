@@ -8,8 +8,10 @@ profile:
   align: right
   image: hm.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Wilkinson Building, Duke University</p>
+  #more_info: >
+  #  <p>Wilkinson Building, Duke University</p>
+
+cv_pdf: haoming_cv.pdf
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
