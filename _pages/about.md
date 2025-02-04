@@ -19,14 +19,9 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I am Haoming Yang, a PhD Student at Duke ECE Department advised by Professor [Vahid Tarokh](https://ece.duke.edu/faculty/vahid-tarokh). I joined Duke ECE in Jan 2023. 
 
-There are two sides about my research:
-* Application of stochastic differential equation in Machine Learning: 
-  * **Mckean Vlasov** Stochastic Differential Equations and Interacting Particle System
-  * Application of **Brownian Bridges** with PDE in distributional robust optimization and continual learning
-* [Application of Machine Learning in Neuroscience and Biology](https://sites.gatech.edu/flap-muri/): 
-  * **Semi-interpretable** machine learning algorithm to model neuron spike timing and interaction.
-  * Analyzing **Agile Flight Dynamics** of insects. 
-  * Cross-Subject **Transfer Learning** application in Moth motor program. 
+There are mainly two sides to my research. 
+* Foundational Deep Learning: I apply the rich mathematical structure of **Stochastic and Partial Differential Equations** to model the dynamic processes inherent in neural network training, study the stochastic nature of optimization methods, and integrate physical principles directly into the learning process. These equations can be applied in deep learning to provide valuable insights to develop **robust learning, continual learning, and sequence modeling** architectures.
+* Deep Learning in Neuroscience: I study neuroscience and neuromotor controls from a deep learning perspective. Our goal is to understand how insects, with limited resources, perceive a complex changing environment and make rapid decisions. On this front, I develop **(semi)-interpretable deep learning algorithms** and collaborate with neuroscientists in the [MURI](https://sites.gatech.edu/flap-muri/) group to understand how complex environmental information is gathered and processed by insects to direct their highly efficient and agile movements. 
 
 Prior to joining Duke ECE as a PhD student, I was a master student at Duke Statistical Science. I had the honor to work with Professor [David Dunson](https://scholar.google.co.uk/citations?view_op=list_works&hl=en&hl=en&user=KwEOawwAAAAJ&pagesize=80&sortby=pubdate) on modeling Brain Connectome. 
 
