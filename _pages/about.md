@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I am Haoming Yang, a PhD Student at Duke ECE Department advised by Professor [Vahid Tarokh](https://ece.duke.edu/faculty/vahid-tarokh). I joined Duke ECE in Jan 2023. 
+Hi, I am Haoming Yang, a PhD Candidate at Duke ECE Department advised by Professor [Vahid Tarokh](https://ece.duke.edu/faculty/vahid-tarokh). I joined Duke ECE in Jan 2023. 
 
 There are mainly two sides to my research. 
 * Foundational Deep Learning: I apply the rich mathematical structure of **Stochastic and Partial Differential Equations** to model the dynamic processes inherent in neural network training, study the stochastic nature of optimization methods, and integrate physical principles directly into the learning process. These equations can be applied in deep learning to provide valuable insights to develop **robust learning, continual learning, and sequence modeling** architectures.
