@@ -3,16 +3,38 @@
   type: time_table
   contents:
     - title: PhD, Electrical and Computer Engineering
-      year: Current 
+      year: Current
       institution: Duke Universit
     - title: Master of Science, Statistical Science
       year: 2021 - 2022
       institution: Duke University
     - title: Bachelor of Science, Physics and Statistis
       institution: University of Illinois at Urbana Champaign
-      year: 2017 - 2021
+      year: 2017 - 2021 
 
-- title: Research Experience
+- title: Work Experience
+  type: time_table
+  contents:
+    - title: Intern Data Scienctist at Meta
+      year: May-Aug 2025
+      description: 
+        - Developed a novel regression based, robust, automated, data quality check. Designed a causal inference inspired volatility metric to flag potential error data. These quality filters greatly improve the robustness of downstream SoT data application.
+    - title: Intern Data Scienctist at Tencent
+      year: Jun-Sept 2020
+      description: 
+        - Led the design and implementation of data analysis tool to capture product demographic similarity.
+
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Language
+      items: Chinese, English
+    - title: Programming
+      items: Python, R, C++, SQL
+    - title: Machine learning
+      items: Pytorch, Jax, Flax, Sklearn, Pandas. 
+
+- title: Past Research Experience
   type: time_table
   contents:
     - institution: Duke University, Statistical Science
@@ -26,20 +48,4 @@
     - institution: UIUC High Energy Physics Group
       year: 2018-2020
       description: 
-        - Designed ML model to classify (Neutrinoless) double Beta Decays.  
-
-- title: Work Experience
-  type: time_table
-  contents:
-    - title: Intern Data Scienctist at Tencent
-      year: Jun-Sept 2020
-      description: 
-        - Led the design and implementation of data analysis tool to capture product demographic similarity.
-
-- title: Skills
-  type: nested_list
-  contents:
-    - title: Language
-      items: Chinese, English
-    - title: Programming
-      items: Python, R, C++, SQL
+        - Designed ML model to classify (Neutrinoless) double Beta Decays. 

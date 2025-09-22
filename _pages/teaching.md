@@ -8,4 +8,4 @@ nav_order: 3
 ---
 
 I have TAed the following classes:
-* ECE 685 Introduction to Deep Learning (Fall 2022)
+* ECE 685 Introduction to Deep Learning (Fall 2022, 2024, 2025)
